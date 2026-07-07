@@ -12,8 +12,8 @@ Identify which categories, regions, and time periods drive the most revenue, and
 data-backed recommendations to improve business performance.
 
 ## Data Source
-Superstore Sales Dataset (Kaggle) — 18 columns including Order Date, Category, 
-Sub-Category, Region, Segment, and Sales, covering ~10,000 orders.
+Superstore Sales Dataset — [Download from Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+
 
 ## Tools Used
 - Python (pandas) — data cleaning and aggregation
