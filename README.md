@@ -18,13 +18,11 @@ Superstore Sales Dataset — (https://www.kaggle.com/datasets/vivek468/superstor
 ## Tools Used
 - Python (pandas) — data cleaning and aggregation
 - Matplotlib — data visualization
-- (Add: SQL, if you did the SQL version too)
+
 
 ## Key Findings
 - Sales grew ~50% from 2015 ($479K) to 2018 ($722K)
-- Tables, Binders, and Machines are the top-selling sub-categories
-- [Add region finding once you check output]
-- [Add segment finding once you check output]
+- Tables, Binders, and Machines are the top-selling sub-categories.
 
 ## Recommendation
 Based on the consistent year-over-year growth, the business should continue investing 
